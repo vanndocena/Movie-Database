@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="movies.xsl"?>
+<movies>
+    <movie>
+        <title> John Wick: Chapter 4 </title>
+        <year>2023</year>
+        <director>Chad Stahelski</director>
+        <cast>Keanu Reeves, Donnie Yen, Bill Skarsgård</cast>
+    </movie>
+    <movie>
+        <title>Fast X</title>
+        <year>2023</year>
+        <director>Louis Leterrier</director>
+        <cast>Vin Diesel, Jason Momoa, Michelle Rodriguez</cast>
+    </movie>
+    <movie>
+        <title>Redeeming Love</title>
+        <year>2022</year>
+        <director>D.J. Caruso</director>
+        <cast>Abigail Cowen, Tom Lewis, Logan Marshall-Green</cast>
+    </movie>
+    <movie>
+        <title>The Kissing Booth</title>
+        <year>2018</year>
+        <director>Vince Marcello</director>
+        <cast>Joey King, Jacob Elordi, Joel Courtney</cast>
+    </movie>
+    <movie>
+        <title>Mamma Mia! Here We Go Again</title>
+        <year>2018</year>
+        <director>Ol Parker</director>
+        <cast>Lily James, Amanda Seyfried, Meryl Streep</cast>
+    </movie>
+    <movie>
+        <title>Salt</title>
+        <year>2010</year>
+        <director>Phillip Noyce</director>
+        <cast>Angelina Jolie, Liev Schreiber, Chiwetel Ejiofor</cast>
+    </movie>
+     <movie>
+        <title>A Man Called Otto</title>
+        <year>2022</year>
+        <director>Mark Forster</director>
+        <cast>Tom Hanks, Mariana Treviño, Manuel Garcia-Rulfo</cast>
+    </movie>
+    <movie>
+        <title>Mulan</title>
+        <year>1998</year>
+        <director>Tony Bancroft, Barry Cook</director>
+        <cast>Ming-Na Wen (Mulan), Eddie Murphy (Mushu), BD Wong (Li Shang)</cast>
+    </movie>
+</movies>
